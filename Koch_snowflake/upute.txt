@@ -1,0 +1,2 @@
+o,p - iteracije
+a - prikaz oznaka
